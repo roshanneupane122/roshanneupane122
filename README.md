@@ -67,10 +67,10 @@ I'm Roshan Neupane from Nepal 🇳🇵<br><br>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<!-- <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshanneupane122&show_icons=true&theme=dark"/>
-</div>
+</div> -->
