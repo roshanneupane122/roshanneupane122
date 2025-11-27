@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.neupaneroshan.com.np/">
-    <img src="./laptop.png" height="25" alt="personal  logo" />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=website&color=be29ec&logoColor=white&style=for-the-badge" height="25" alt="personal  logo" />
   </a>
 </div>
 
